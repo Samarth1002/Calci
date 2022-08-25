@@ -1,0 +1,15 @@
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/bin/Debug/net6.0/CalculatorEx
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/bin/Debug/net6.0/CalculatorEx.deps.json
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/bin/Debug/net6.0/CalculatorEx.runtimeconfig.json
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/bin/Debug/net6.0/CalculatorEx.dll
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/bin/Debug/net6.0/CalculatorEx.pdb
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.csproj.AssemblyReference.cache
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.AssemblyInfoInputs.cache
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.AssemblyInfo.cs
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.csproj.CoreCompileInputs.cache
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.dll
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/refint/CalculatorEx.dll
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.pdb
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/CalculatorEx.genruntimeconfig.cache
+/Users/samarthanand.kamble/RiderProjects/CalculatorEx/CalculatorEx/obj/Debug/net6.0/ref/CalculatorEx.dll
