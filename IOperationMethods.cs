@@ -2,6 +2,10 @@ namespace CalculatorEx;
 
 interface IOperationMethods
 {
-    int Addition(int valOne, int valTwo);
-    int Subtraction(int valOne, int valTwo);
+    decimal Addition();
+    // decimal Subtraction();
+    // decimal Multiplication();
+    // decimal Division();
+    // decimal Power();
+
 }
